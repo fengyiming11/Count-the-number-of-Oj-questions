@@ -1,0 +1,9 @@
+{
+    color: #333;
+    background: red;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-rendering: optimizelegibility;
+    -moz-osx-font-smoothing: grayscale;
+    direction: ltr;
+}

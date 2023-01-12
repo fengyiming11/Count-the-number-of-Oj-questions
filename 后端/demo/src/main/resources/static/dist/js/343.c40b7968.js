@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmenu"]=self["webpackChunkmenu"]||[]).push([[343],{3343:function(n,u,t){t.r(u),t.d(u,{default:function(){return i}});var e=function(){var n=this,u=n._self._c;return u("div",{staticClass:"stt"})},s=[],l={name:"main"},a=l,r=t(1001),c=(0,r.Z)(a,e,s,!1,null,null,null),i=c.exports}}]);
+//# sourceMappingURL=343.c40b7968.js.map
